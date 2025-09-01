@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there
 
-<!--
-**bstaber/bstaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects I'm currently working on:
 
-Here are some ideas to get you started:
+- [rustineers](https://github.com/bstaber/rustineers): A collection of crates to learn Rust with applied sciences. I try to comment and explain my journey in small [book](bstaber.github.io/rustineers/) that goes with it.
+- [plaid](https://github.com/PLAID-lib/plaid): An open-source project developped by my colleagues.
+- [cppxplorers](https://github.com/bstaber/cppxplorers): A C++ mono-repository playground. There's a [book](bstaber.github.io/cppxplorers) I try to fill as well.
+- [kernax](https://gitlab.com/drti/kernax): A small JAX-based package that implements kernel methods. I've been refactoring that library a bit.
+- [pbnn](https://github.com/bstaber/pbnn): A code that benchmarks UQ methods for neural networks in JAX and PyTorch. I'm cleaning this up as well.
+- [Python lecture notes](bstaber.github.io/ensai-2a-prog-alg-ml/): Some lecture notes for a lecture I give about implementing algorithms in Python. I'm trying out marp.
+- [Marimo notebooks](https://bstaber.github.io/python-ml-tutorials-marimo/): Some notebooks that go along with the lecture notes. Trying to make nice visual examples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Older stuff:
+
+- [TrilinosUQComp](https://github.com/bstaber/TrilinosUQComp): A 3D parallel finite element solver I made during my PhD thesis. It relies on [Trilinos](https://trilinos.github.io/) and good old `Epetra` (which is deprecated now). It was my first C++ project, it has several flaws but I was happy with it!
+
+---
+
+If you're still here, you can visit my [goofy website](https://bstaber.neocities.org/).
