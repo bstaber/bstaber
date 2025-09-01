@@ -7,7 +7,7 @@ Projects I'm currently working on:
 - [cppxplorers](https://github.com/bstaber/cppxplorers): A C++ mono-repository playground. There's a [book](bstaber.github.io/cppxplorers) I try to fill as well.
 - [kernax](https://gitlab.com/drti/kernax): A small JAX-based package that implements kernel methods. I've been refactoring that library a bit.
 - [pbnn](https://github.com/bstaber/pbnn): A code that benchmarks UQ methods for neural networks in JAX and PyTorch. I'm cleaning this up as well.
-- [Python lecture notes](bstaber.github.io/ensai-2a-prog-alg-ml/): Some lecture notes for a lecture I give about implementing algorithms in Python. I'm trying out marp.
+- [Python lecture notes](https://bstaber.github.io/ensai-2a-prog-alg-ml/): Some lecture notes for a lecture I give about implementing algorithms in Python. I'm trying out marp.
 - [Marimo notebooks](https://bstaber.github.io/python-ml-tutorials-marimo/): Some notebooks that go along with the lecture notes. Trying to make nice visual examples.
 
 Older stuff:
