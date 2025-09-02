@@ -12,8 +12,8 @@ Projects I'm currently working on:
 
 Older stuff:
 
-- [TrilinosUQComp](https://github.com/bstaber/TrilinosUQComp): A 3D parallel finite element solver I made during my PhD thesis. It relies on [Trilinos](https://trilinos.github.io/) and good old `Epetra` (which is deprecated now). It was my first C++ project, it has several flaws but I was happy with it!
-- [BaTorch](https://gitlab.com/drti/batorch): A code for benchmarking Bayesian neural networks with PyTorch and [Hydra](https://hydra.cc/) We implemented several Bayesian methods for deep neural networks. It is outdated but I plan to use Hydra again in another project.
+- [TrilinosUQComp](https://github.com/bstaber/TrilinosUQComp): A 3D parallel finite element solver I made during my PhD thesis. It relies on [Trilinos](https://trilinos.github.io/) and good old `Epetra` (which is deprecated now). It was my first C++ project, it has several flaws but I was happy with it! Nowadays I would probably use [Spack](https://spack.io/) and rewrite the finite element solvers with [Kokkos](https://github.com/kokkos/kokkos)/[Tpetra](https://trilinos.github.io/tpetra.html).
+- [BaTorch](https://gitlab.com/drti/batorch): A code for benchmarking Bayesian neural networks with PyTorch and [Hydra](https://hydra.cc/) We implemented several Bayesian methods for deep neural networks, and kernel-based distances stuff like the maximum mean discrepancy and the kernelized Stein discrepancy. It is outdated but I plan to use Hydra again in another project.
 
 ---
 
