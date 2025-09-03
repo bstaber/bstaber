@@ -10,6 +10,9 @@ Projects I'm currently working on:
 - [Python lecture notes](https://bstaber.github.io/ensai-2a-prog-alg-ml/): Some lecture notes for a lecture I give about implementing algorithms in Python. I'm trying out marp.
 - [Marimo notebooks](https://bstaber.github.io/python-ml-tutorials-marimo/): Some notebooks that go along with the lecture notes. Trying to make nice visual examples.
 
+Experimenting:
+- [uv python monorepo](https://github.com/bstaber/uv-monorepo-example): Trying out `uv` workspaces to make a Python monorepository. It looks really cool and close to what we would do with Cargo (probably not surprising).
+
 Older stuff:
 
 - [TrilinosUQComp](https://github.com/bstaber/TrilinosUQComp): A 3D parallel finite element solver I made during my PhD thesis. It relies on [Trilinos](https://trilinos.github.io/) and good old `Epetra` (which is deprecated now). It was my first C++ project, it has several flaws but I was happy with it! Nowadays I would probably use [Spack](https://spack.io/) and rewrite the finite element solvers with [Kokkos](https://github.com/kokkos/kokkos)/[Tpetra](https://trilinos.github.io/tpetra.html).
