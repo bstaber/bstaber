@@ -2,7 +2,7 @@
 
 Projects I'm currently working on:
 
-- [rustineers](https://github.com/bstaber/rustineers): A collection of crates to learn Rust with applied sciences. I try to comment and explain my journey in a small [book](bstaber.github.io/rustineers/) that goes with it.
+- [rustineers](https://github.com/bstaber/rustineers): A collection of crates to learn Rust with applied sciences. I try to comment and explain my journey in a small [book](https://bstaber.github.io/rustineers/) that goes with it.
 - [plaid](https://github.com/PLAID-lib/plaid): An open-source project developped by my colleagues.
 - [cppxplorers](https://github.com/bstaber/cppxplorers): A C++ mono-repository playground. There's a [book](https://bstaber.github.io/cppxplorers) I try to fill as well.
 - [kernax](https://gitlab.com/drti/kernax): A small JAX-based package that implements kernel methods. I've been refactoring that library a bit.
