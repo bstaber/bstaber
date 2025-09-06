@@ -12,6 +12,7 @@
 
 **Experimenting**:
 - [uv python monorepo](https://github.com/bstaber/uv-monorepo-example): I made a template for a python mono-repository setup with `uv`. I added all the tools I like to use right now. It can easily be used as a standard repository too.
+- [endurance](https://github.com/bstaber/endurance): An example of python playground based on the above template.
 
 **Older stuff**:
 
