@@ -11,7 +11,7 @@ Projects I'm currently working on:
 - [Marimo notebooks](https://bstaber.github.io/python-ml-tutorials-marimo/): Some notebooks that go along with the lecture notes. Trying to make nice visual examples.
 
 Experimenting:
-- [uv python monorepo](https://github.com/bstaber/uv-monorepo-example): Trying out `uv` workspaces to make a Python monorepository. It looks really cool and close to what we would do with Cargo (probably not surprising).
+- [uv python monorepo](https://github.com/bstaber/uv-monorepo-example): I made a template for a python mono-repository setup with `uv`. I added all the tools I like to use right now. It can easily be used as a standard repository too.
 
 Older stuff:
 
