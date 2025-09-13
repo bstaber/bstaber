@@ -28,5 +28,5 @@
 ---
 
 <p align="center">
-If you're still here, you can visit my [goofy website](https://bstaber.neocities.org/).
+  If you're still here, you can visit my <a href="https://bstaber.neocities.org/">goofy website</a>.
 </p>
