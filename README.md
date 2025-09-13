@@ -21,4 +21,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstaber&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+
+---
+
+<p align="center">
 If you're still here, you can visit my [goofy website](https://bstaber.neocities.org/).
+</p>
