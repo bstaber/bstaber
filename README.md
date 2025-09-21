@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstaber&langs_count=3&hide=html,java,css,scss,liquid,javascript&layout=compact&theme=radical" alt="Top Langs"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstaber&card_width=400&langs_count=3&hide=html,java,css,scss,liquid,javascript&layout=compact&theme=radical" alt="Top Langs"/>  
 </p>
 
 ---
