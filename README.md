@@ -2,6 +2,7 @@
 
 **Projects I'm currently working on**:
 
+- [scimm](https://github.com/bstaber/scimm): I'm wondering if we could come up with a "timm" but for scientific ML.
 - [rustineers](https://github.com/bstaber/rustineers): A collection of crates to learn Rust with applied sciences. I try to comment and explain my journey in a small [book](https://bstaber.github.io/rustineers/) that goes with it.
 - [plaid](https://github.com/PLAID-lib/plaid): An open-source project developped by my colleagues.
 - [cppxplorers](https://github.com/bstaber/cppxplorers): A C++ mono-repository playground. There's a [book](https://bstaber.github.io/cppxplorers) I try to fill as well.
