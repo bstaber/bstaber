@@ -2,7 +2,7 @@
 
 **Projects I'm currently working on**:
 
-- [scimm](https://github.com/bstaber/scimm): I'm wondering if we could come up with a "timm" but for scientific ML.
+- [scimm](https://github.com/bstaber/scimm): I'm wondering if we could come up with a "timm" but for scientific ML. I work on a private version of this.
 - [rustineers](https://github.com/bstaber/rustineers): A collection of crates to learn Rust with applied sciences. I try to comment and explain my journey in a small [book](https://bstaber.github.io/rustineers/) that goes with it.
 - [plaid](https://github.com/PLAID-lib/plaid): An open-source project developped by my colleagues.
 - [cppxplorers](https://github.com/bstaber/cppxplorers): A C++ mono-repository playground. There's a [book](https://bstaber.github.io/cppxplorers) I try to fill as well.
@@ -12,6 +12,7 @@
 - [Marimo notebooks](https://bstaber.github.io/python-ml-tutorials-marimo/): Some notebooks that go along with the lecture notes. Trying to make nice visual examples.
 
 **Experimenting**:
+- [simple agent with minitral-3-3B](https://github.com/bstaber/ministral-3-3B-simple-agent-from-scratch): Making a simple agent from scratch that runs locally.
 - [uv python monorepo](https://github.com/bstaber/uv-monorepo-example): I made a template for a python mono-repository setup with `uv`. I added all the tools I like to use right now. It can easily be used as a standard repository too.
 - [endurance](https://github.com/bstaber/endurance): An example of python playground based on the above template.
 
