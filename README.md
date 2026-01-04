@@ -12,7 +12,7 @@
 - [Marimo notebooks](https://bstaber.github.io/python-ml-tutorials-marimo/): Some notebooks that go along with the lecture notes. Trying to make nice visual examples.
 
 **Experimenting**:
-- [simple agent with minitral-3-3B](https://github.com/bstaber/ministral-3-3B-simple-agent-from-scratch): Making a simple agent from scratch that runs locally.
+- [simple agent with ministral-3-3B](https://github.com/bstaber/ministral-3-3B-simple-agent-from-scratch): Making a simple agent from scratch that runs locally.
 - [uv python monorepo](https://github.com/bstaber/uv-monorepo-example): I made a template for a python mono-repository setup with `uv`. I added all the tools I like to use right now. It can easily be used as a standard repository too.
 - [endurance](https://github.com/bstaber/endurance): An example of python playground based on the above template.
 
