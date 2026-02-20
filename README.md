@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  If you're still here, you can visit my <a href="https://bstaber.github.io">website</a> (there is also a <a href="https://bstaber.neocities.org/">fun version</a>).
+  If you're still here, you can visit my <a href="https://bstaber.github.io">website</a>
 </p>
