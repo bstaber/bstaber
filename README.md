@@ -1,7 +1,7 @@
 ## Hey there
 
 **Projects I'm currently working on**:
-
+- [flowgp-poc](https://github.com/bstaber/flowgp-poc): Trying to reproduce a paper that proposes post-conditioning method for GPs.
 - [ghost-protocol](https://codeberg.org/bstaber/ghost-protocol): An open snapshot and interchange format for persistent AI agents, hosted on Codeberg.
 - [pde-priors](https://github.com/bstaber/pde-priors) and [pde-icl](https://github.com/bstabere/pde-icl): Trying to create a prior data distribution for PDE problems and pretraining a TabICL-like model on it.
 - [rustineers](https://github.com/bstaber/rustineers): A collection of crates to learn Rust with applied sciences. I try to comment and explain my journey in a small [book](https://bstaber.github.io/rustineers/) that goes with it.
